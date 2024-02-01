@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137833901738",
+    "project_id": "projetoquedeucerto-gaabrenno",
+    "storage_bucket": "projetoquedeucerto-gaabrenno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137833901738:android:493e65208bc5b3f605ead3",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_QvknqEL9tAZe-aXYVVLvLR_sIRu1g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
